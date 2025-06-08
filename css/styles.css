@@ -56,11 +56,69 @@ footer a:hover {
 	text-decoration: underline;
 }
 
+/* button styling */
+.btn {
+	background-color: var(--med-blue);
+	border-color: var(--dark-blue);
+}
+
+.btn:hover, .btn:focus, .btn:active {
+	background-color: var(--dark-blue);
+	border-color: var(--med-blue);
+}
+/* end button styling */
+
+/* index.html specific CSS */
+.hero-image {
+	background-image: url('../img/recipe-bg.png');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+	position: relative;
+}
+
+.overlay-text {
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 10px;
+  	width: 60%;
+	text-align: center;
+}
+/* end index.html specific CSS */
+
+/* search.html specific CSS */
+
+
+/* end search.html specific CSS */
+
+/* staples.html specific CSS */
+
+
+/* end staples.html specific CSS */
+
+/* tips.html specific CSS */
+
+
+/* end tips.html specific CSS */
+
+/* login.html specific CSS */
+
+
+/* end login.html specific CSS */
+
+/* saved.html specific CSS */
+
+
+/* end saved.html specific CSS */
 
 
 @media screen and (max-width: 500px) {
 	body {
-		width: 90%;
+		width: 100%;
 		margin: auto;
+	}
+	
+	.overlay-text {
+		width: 80%;
 	}
 }

@@ -162,4 +162,8 @@ footer a:hover {
 	.overlay-text {
 		width: 80%;
 	}
+
+	#staples-main {
+		width: 90%;
+	}
 }

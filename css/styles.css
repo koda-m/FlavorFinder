@@ -3,21 +3,24 @@
 :root {
 	--main-red: #e63946;
 	--main-cream: #f1faee;
-	--bg-blue: #a8dadc;
+	--main-white: #f1faee;
+	--light-blue: #a8dadc;
 	--med-blue: #457b9d;
 	--dark-blue: #1d3557;
 	
 	--text-primary: #181818;
 	--text-secondary: #212121;
+	--text-light: #fbfbf9;
 }
 
 body {
-	background-color: var(--bg-blue);
+	background-color: var(--main-cream);
 	color: var(--text-primary);
+	font-family: 'Funnel Sans';
 }
 
 .navbar {
-	background-color: var(--bg-blue) !important;
+	background-color: var(--main-cream) !important;
 }
 
 .navbar-brand {
@@ -39,6 +42,7 @@ body {
 .active {
 	font-weight: bold;
 	color: var(--dark-blue);
+	text-decoration: underline;
 }
 
 footer {
@@ -69,6 +73,7 @@ footer a:hover {
 /* end button styling */
 
 /* index.html specific CSS */
+
 .hero-image {
 	background-image: url('../img/recipe-bg.png');
 	background-size: cover;
@@ -84,6 +89,7 @@ footer a:hover {
   	width: 60%;
 	text-align: center;
 }
+
 /* end index.html specific CSS */
 
 /* search.html specific CSS */
@@ -93,6 +99,41 @@ footer a:hover {
 
 /* staples.html specific CSS */
 
+#staples-main {
+	width: 60%;
+	margin: auto;
+	padding: 2%;
+}
+
+#staples-main h1 {
+	text-align: center;
+}
+
+#staples-accordion {
+	margin: auto;
+}
+
+#staples-accordion ul {
+	list-style-type: disc;
+}
+
+.accordion-item {
+	background-color: var(--light-blue);
+}
+
+.accordion-button {
+	background-color: var(--med-blue);
+	font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+	background-color: var(--dark-blue);
+	color: var(--text-light); !important
+}
+
+.accordion-body {
+	padding-bottom: 0;
+}
 
 /* end staples.html specific CSS */
 
@@ -117,7 +158,7 @@ footer a:hover {
 		width: 100%;
 		margin: auto;
 	}
-	
+
 	.overlay-text {
 		width: 80%;
 	}

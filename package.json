@@ -1,0 +1,26 @@
+{
+  "name": "flavorfinder",
+  "version": "1.0.0",
+  "description": "<h1>FlavorFinder</h1>\r <h2>Code:You Web Development Pathway Capstone Project</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koda-m/FlavorFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koda-m/FlavorFinder/issues"
+  },
+  "homepage": "https://github.com/koda-m/FlavorFinder#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}

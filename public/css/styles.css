@@ -3,6 +3,7 @@
 :root {
 	--main-red: #e63946;
 	--main-cream: #f1faee;
+	--main-tan: #e2d1c3;
 	--main-white: #f1faee;
 	--light-blue: #a8dadc;
 	--med-blue: #457b9d;
@@ -94,6 +95,31 @@ footer a:hover {
 
 /* search.html specific CSS */
 
+#search-main {
+	background-color: var(--light-blue);
+	border: 5px solid var(--main-red);
+	border-radius: 20px;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding: 5%;
+	padding-bottom: 2%;
+}
+
+#ingredients {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+#recipe-results {
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 5%;
+}
 
 /* end search.html specific CSS */
 
@@ -128,7 +154,7 @@ footer a:hover {
 
 .accordion-button:not(.collapsed) {
 	background-color: var(--dark-blue);
-	color: var(--text-light); !important
+	color: var(--text-light) !important;
 }
 
 .accordion-body {
@@ -161,6 +187,10 @@ footer a:hover {
 
 	.overlay-text {
 		width: 80%;
+	}
+
+	#search-main {
+		width: 90%;
 	}
 
 	#staples-main {

@@ -1,6 +1,6 @@
 <h1>FlavorFinder</h1>
 <h2>Description</h2>
-<p>FlavorFinder is a web application that helps users find recipes based on ingredients they already have at home. Using the Spoonacular API, the site allows users to input available ingredients and get recipe suggestions, along with recipe instructions, nutrition information, etc. The web app will also have filtering options for various dietary preferences and restrictions (i.e., vegetarian, gluten-free, etc.). The site aims to minimize food waste, encourage home cooking, and simplify meal planning through a responsive, user-friendly interface built with Bootstrap.</p>
+<p>FlavorFinder is a web application that helps users find recipes based on the ingredients they already have. Enter the ingredients you have in your kitchen, select any dietary preferences (if applicable), and FlavorFinder will show you recipe options using the Spoonacular API. FlavorFinder is designed to reduce food waste and help you discover new meals without a trip to the store.</p>
 <h2>Usage</h2>
 <ul>
   <li>On the search page, type in ingredients you have (comma-separated).</li>

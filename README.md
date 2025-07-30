@@ -10,7 +10,7 @@
 </ul>
 <h2>Credits</h2>
 <ul>
-  <li>Spoonacular API – https://spoonacular.com/food-api</li>
-  <li>Bootstrap – for responsive styling</li>
-  <li>Font Awesome – for icons</li>
+  <li><a href="https://spoonacular.com/food-api">Spoonacular API</a></li>
+  <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+  <li><a href="https://fontawesome.com/">Font Awesome</a></li>
 </ul>

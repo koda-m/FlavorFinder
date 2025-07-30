@@ -10,7 +10,7 @@
 </ul>
 <h2>Credits</h2>
 <ul>
-  <li><a href="https://spoonacular.com/food-api">Spoonacular API</a> - food API with over 5,000 recipes (and a generous free tier :P)</li>
+  <li><a href="https://spoonacular.com/food-api">Spoonacular API</a> - food API with over 5,000 recipes to pull from (and a generous free tier &#128523;)</li>
   <li><a href="https://getbootstrap.com/">Bootstrap</a> - for responsive and consistent styling</li>
   <li><a href="https://fontawesome.com/">Font Awesome</a> - for icons</li>
 </ul>

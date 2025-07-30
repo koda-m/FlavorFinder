@@ -14,6 +14,7 @@
   <li>Clone or download this repo.</li>
   <li>Open a terminal and navigate to the FlavorFinder folder.</li>
   <li>Run the script with Node.js by typing the command <code>node server</code> into the terminal and pressing Enter.</li>
+</ol>
 <h2>Credits</h2>
 <ul>
   <li><a href="https://spoonacular.com/food-api">Spoonacular API</a> - food API with over 5,000 recipes to pull from (and a generous free tier &#128523;)</li>

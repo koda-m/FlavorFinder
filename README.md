@@ -8,7 +8,7 @@
   <li>Click "Search Recipes" to see a list of matching recipes.</li>
   <li>Click “View Recipe” to open the full recipe on Spoonacular.</li>
 </ul>
-<h3>How to Run</h3>
+<h2>How to Run</h2>
 <ol>
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
   <li>Clone or download this repo.</li>

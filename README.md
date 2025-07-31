@@ -14,7 +14,7 @@
   <li>Clone or download this repo.</li>
   <li>Open a Git Bash terminal and navigate to the FlavorFinder folder.</li>
   <li>Type in the command <code>npm install</code> and press Enter.</li>
-  <li>Create a <code>.env</code> file and add a Spoonacular API key (follow this format: SPOONACULAR_API_KEY=[API key goes here] ). Make sure to save this to the root of the project.<br/><i>[If you're from Code:You and are grading this project, I provided my Spoonacular API Key in the project submission form]</i></li>
+  <li>Create a <code>.env</code> file and add a Spoonacular API key (follow this format: <code>SPOONACULAR_API_KEY=[API key goes here]</code>). Make sure to save this to the root of the project.<br/><i>[If you're from Code:You and are grading this project, I provided my Spoonacular API Key in the project submission form]</i></li>
   <li>Run the project with Node.js by typing the command <code>node server.js</code> into the terminal and pressing Enter.</li>
 </ol>
 <h2>Credits</h2>

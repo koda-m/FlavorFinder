@@ -13,7 +13,7 @@
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
   <li>Clone or download this repo.</li>
   <li>Open a terminal and navigate to the FlavorFinder folder.</li>
-  <li>Run the script with Node.js by typing the command <code>node server</code> into the terminal and pressing Enter.</li>
+  <li>Run the script with Node.js by typing the command <code>node server.js</code> into the terminal and pressing Enter.</li>
 </ol>
 <h2>Credits</h2>
 <ul>

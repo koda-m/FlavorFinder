@@ -8,9 +8,16 @@
   <li>Click "Search Recipes" to see a list of matching recipes.</li>
   <li>Click “View Recipe” to open the full recipe on Spoonacular.</li>
 </ul>
+<h2>How to Run</h2>
+<ol>
+  <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>
+  <li>Clone or download this repo.</li>
+  <li>Open a terminal and navigate to the FlavorFinder folder.</li>
+  <li>Run the script with Node.js by typing the command <code>node server</code> into the terminal and pressing Enter.</li>
+</ol>
 <h2>Credits</h2>
 <ul>
-  <li>Spoonacular API – https://spoonacular.com/food-api</li>
-  <li>Bootstrap – for responsive styling</li>
-  <li>Font Awesome – for icons</li>
+  <li><a href="https://spoonacular.com/food-api">Spoonacular API</a> - food API with over 5,000 recipes to pull from (and a generous free tier &#128523;)</li>
+  <li><a href="https://getbootstrap.com/">Bootstrap</a> - for responsive and consistent styling</li>
+  <li><a href="https://fontawesome.com/">Font Awesome</a> - for icons</li>
 </ul>

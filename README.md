@@ -35,7 +35,7 @@
 <ul>
   <li>User Authentication - users can see their saved recipes across devices</li>
   <li>Improved search functionality - allow users to search with additional filters (cuisine type, cooking time, recipe ratings, etc.)</li>
-  <li>Inventory/Shopping List - generate a shopping list for recipes based on the ingredients users already have</li>
+  <li>Inventory/Shopping List - generate a shopping list for saved recipes based on the ingredients users already have</li>
   <li>Display nutrition information - using Chart.js</li>
-  <li>..and more!</li>
+  <li>...and more!</li>
 </ul>

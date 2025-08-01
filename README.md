@@ -25,11 +25,23 @@
   </tr>
   <tr>
     <td><b>Persist data to an internal API and make the stored data accessible in your app. (including after reload/refresh). This can be achieved either by using local storage or building your own API that stores data into a JSON file.</b></td>
-    <td>Used localStorage to allow users to save (and unsave) recipes. Any saved recipes are accessible after the page is reloaded.</td.>
+    <td>Used <code>localStorage</code> to allow users to save (and unsave) recipes. Any saved recipes are accessible after the page is reloaded.</td.>
   </tr>
   <tr>
     <td><b>Create a node.js web server using a modern framework such as Express.js.</b></td>
     <td>Set up a Node.js web server using Express.js (see <code>server.js</code>) to power recipe search functionality and handle backend logic.</td>
+  </tr>
+  <tr>
+    <td><b>Visualize data in a user friendly way. (e.g. graph, chart, etc) This can include using libraries like ChartJS</b></td>
+    <td>Recipe search results are displayed in responsive Bootstrap cards with a consistent layout showing relevant information (recipe name, recipe photo, and buttons to either view or save the recipe).</td>
+  </tr>
+  <tr>
+    <td><b>Integrate an API into your project (MANDATORY). Using a Weather API will not count.</b></td>
+    <td>Used the Spoonacular API to retrieve recipe information, allowing users to search for recipes by ingredients and dietary preferences (if applicable).</td>
+  </tr>
+  <tr>
+    <td><b>At least one media query to make your site responsive.</b></td>
+    <td>Used a media query, Bootstrap, and Flexbox to ensure the site adapts to smaller screen sizes.</td>
   </tr>
 </table>
 <h2>How to Run</h2>

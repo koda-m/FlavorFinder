@@ -1,4 +1,5 @@
 <h1>FlavorFinder</h1>
+<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/7989754f-a095-4b19-8eb5-34822d1ff1cb" />
 <h2>Description</h2>
 <p>FlavorFinder is a web application that helps users find recipes based on the ingredients they already have. Enter the ingredients you have in your kitchen, select any dietary preferences (if applicable), and FlavorFinder will show you recipe options using the Spoonacular API. FlavorFinder is designed to reduce food waste and help you discover new meals without a trip to the store.</p>
 <h2>Technologies Used</h2>

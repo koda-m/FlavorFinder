@@ -30,7 +30,7 @@
 </ul>
 
 <br/>
-<h3>Future Features</h3>
+<h2>Future Features</h2>
 <p>Stay tuned for future updates. Some of the future FlavorFinder features (say that ten times fast!) I hope to implement are:</p>
 <ul>
   <li>User Authentication - so users can see their saved recipes across devices</li>

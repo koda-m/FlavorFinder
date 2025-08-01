@@ -6,7 +6,7 @@
 <p>HTML5, CSS3, JavaScript, Node.js, Express.js, localStorage, Spoonacular API, Bootstrap, Font Awesome, Git & GitHub, Git Bash, Visual Studio Code</p>
 <h2>Usage</h2>
 <ul>
-  <li>On the search page, type in ingredients you have (comma-separated).</li>
+  <li>On the "Recipe Search" page, type in ingredients you have (comma-separated).</li>
   <li>Check any dietary filters (like Vegetarian or Gluten-Free).</li>
   <li>Click "Search Recipes" to see a list of matching recipes.</li>
   <li>Click “View Recipe” to open the full recipe on Spoonacular.</li>

@@ -28,3 +28,14 @@
   <li><a href="https://getbootstrap.com/">Bootstrap</a> - for responsive and consistent styling</li>
   <li><a href="https://fontawesome.com/">Font Awesome</a> - for icons</li>
 </ul>
+
+<br/>
+<h3>Future Features</h3>
+<p>Stay tuned for future updates. Some of the future FlavorFinder features (say that ten times fast!) I hope to implement are:</p>
+<ul>
+  <li>User Authentication - so users can see their saved recipes across devices</li>
+  <li>Improved search functionality - allow users to search with additional filters (cuisine type, cooking time, recipe ratings, etc.)</li>
+  <li>Inventory/Shopping List - generate a shopping list for recipes based on the ingredients users already have</li>
+  <li>Display nutrition information - using Chart.js</li>
+  <li>..and more!</li>
+</ul>

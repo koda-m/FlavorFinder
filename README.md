@@ -23,6 +23,14 @@
     <td><b>Create a function that accepts two or more input parameters and returns a value that is calculated or determined by the inputs. Basic math functions don’t count (e.g. addition, etc).</b></td>
     <td>Wrote a function that uses a user's list of ingredients (<code>cleanedIngredients</code>) and any selected dietary preferences (<code>diets</code> - if applicable) to build a search URL for the Spoonacular API.</td>
   </tr>
+  <tr>
+    <td><b>Persist data to an internal API and make the stored data accessible in your app. (including after reload/refresh). This can be achieved either by using local storage or building your own API that stores data into a JSON file.</b></td>
+    <td>Used localStorage to allow users to save (and unsave) recipes. Any saved recipes are accessible after the page is reloaded.</td.>
+  </tr>
+  <tr>
+    <td><b>Create a node.js web server using a modern framework such as Express.js.</b></td>
+    <td>Set up a Node.js web server using Express.js (see <code>server.js</code>) to power recipe search functionality and handle backend logic.</td>
+  </tr>
 </table>
 <h2>How to Run</h2>
 <ol>

@@ -10,6 +10,8 @@
   <li>Check any dietary filters (like Vegetarian or Gluten-Free).</li>
   <li>Click "Search Recipes" to see a list of matching recipes.</li>
   <li>Click “View Recipe” to open the full recipe on Spoonacular.</li>
+  <li>Click the heart icon to save recipes.</li>
+  <li>On the "Saved Recipes" page, click the trash can icon to remove a recipe from your saved recipes.</li>
 </ul>
 <h2>How to Run</h2>
 <ol>

@@ -28,8 +28,6 @@
   <li><a href="https://getbootstrap.com/">Bootstrap</a> - for responsive and consistent styling</li>
   <li><a href="https://fontawesome.com/">Font Awesome</a> - for icons</li>
 </ul>
-
-<br/>
 <h2>Future Features</h2>
 <p>Stay tuned for future updates. Some of the future FlavorFinder features (say that ten times fast!) I hope to implement are:</p>
 <ul>

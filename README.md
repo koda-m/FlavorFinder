@@ -63,7 +63,7 @@
 <h2>Future Features</h2>
 <p>Stay tuned for future updates. Some of the future FlavorFinder features (say that ten times fast!) I hope to implement are:</p>
 <ul>
-  <li>User Authentication - users can see their saved recipes across devices</li>
+  <li>User Authentication - allow users to create an account and see their saved recipes across devices (will probably use MongoDB for this)</li>
   <li>Improved search functionality - allow users to search with additional filters (cuisine type, cooking time, recipe ratings, etc.)</li>
   <li>Inventory/Shopping List - generate a shopping list for saved recipes based on the ingredients users already have</li>
   <li>Display nutrition information - using Chart.js</li>

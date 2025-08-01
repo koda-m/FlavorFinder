@@ -13,6 +13,17 @@
   <li>Click the heart icon to save recipes.</li>
   <li>On the "Saved Recipes" page, click the trash can icon to remove a recipe from your saved recipes.</li>
 </ul>
+<h2>Capstone Requirements Fulfilled</h2>
+<table>
+  <tr>
+    <th>Requirement</th>
+    <th>Implementation</th>
+  </tr>
+  <tr>
+    <td><b>Create a function that accepts two or more input parameters and returns a value that is calculated or determined by the inputs. Basic math functions don’t count (e.g. addition, etc).</b></td>
+    <td>Wrote a function that uses a user's list of ingredients (<code>cleanedIngredients</code>) and any selected dietary preferences (<code>diets</code> - if applicable) to build a search URL for the Spoonacular API.</td>
+  </tr>
+</table>
 <h2>How to Run</h2>
 <ol>
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>

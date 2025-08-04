@@ -45,21 +45,7 @@
   </tr>
 </table>
 <h2>Fetch Request</h2>
-<code>fetch(url)
-  .then(function (response) {
-    if (!response.ok) {
-      throw new Error('Could not get recipes');
-    }
-    return response.json();
-  })
-  .then(function (data) {
-    // Handle the recipe data
-  })
-  .catch(function (error) {
-    console.error('Fetch error:', error);
-    resultsSection.innerHTML = '<p class="text-danger">Something went wrong. Please try again later.</p>';
-  });
-</code>
+
 <h2>How to Run</h2>
 <ol>
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>

@@ -45,7 +45,9 @@
   </tr>
 </table>
 <h2>Fetch Request</h2>
-
+<p>I fulfilled this requirement by sending a fetch request to the Spoonacular API using a custom-built URL based on the user’s ingredients and any selected dietary preferences. The API's response is displayed on the page using Bootstrap cards. These two screenshots show the main parts of my fetch request (the lines between these two screenshots are for creating the recipe cards, and adding the view recipe and save recipe buttons to each card).</p>
+<img width="1277" height="317" alt="fetch" src="https://github.com/user-attachments/assets/2ed8032f-c886-42ab-841b-627ed25cedab" />
+<img width="1153" height="100" alt="fetch2" src="https://github.com/user-attachments/assets/e7e34a11-2d6c-434e-b9ee-ab34be0a0502" />
 <h2>How to Run</h2>
 <ol>
   <li>Make sure you have Node.js installed (download here: https://nodejs.org/en).</li>

@@ -1,7 +1,7 @@
 <h1>FlavorFinder</h1>
 <img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/7989754f-a095-4b19-8eb5-34822d1ff1cb" />
 <h2>Description</h2>
-<p>FlavorFinder is a web application that helps users find recipes based on the ingredients they already have. Enter the ingredients you have in your kitchen, select any dietary preferences (if applicable), and FlavorFinder will show you recipe options using the Spoonacular API. FlavorFinder is designed to reduce food waste and help you discover new meals without a trip to the store.</p>
+<p>FlavorFinder is my capstone project for the Code:You web development pathway. It’s a full-stack web app built with HTML, CSS (Bootstrap), JavaScript, Node.js, and Express.js. FlavorFinder uses the Spoonacular API to help users discover recipes based on ingredients they already have, with optional filters for dietary preferences. Users can also save their favorite recipes. FlavorFinder is designed to reduce food waste and help users discover new meals without a trip to the store. This project showcases my ability to work with external APIs, manage dynamic content, and build responsive, user-friendly interfaces.</p>
 <h2>Technologies Used</h2>
 <p>HTML5, CSS3, JavaScript, Node.js, Express.js, localStorage, Spoonacular API, Bootstrap, Font Awesome, Git & GitHub, Git Bash, Visual Studio Code</p>
 <h2>Usage</h2>

@@ -70,6 +70,6 @@
   <li>User Authentication - allow users to create an account and see their saved recipes across devices (will probably use MongoDB for this)</li>
   <li>Improved search functionality - allow users to search with additional filters (cuisine type, cooking time, recipe ratings, etc.)</li>
   <li>Inventory/Shopping List - generate a shopping list for saved recipes based on the ingredients users already have</li>
-  <li>Display nutrition information - using Chart.js</li>
+  <li>Display nutrition information - using Chart.js (luckily, Spoonacular has an endpoint for nutrition information)</li>
   <li>...and more!</li>
 </ul>
